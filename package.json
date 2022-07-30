@@ -65,5 +65,5 @@
     "type": "git",
     "url": "https://github.com/Penggeor/bun.git"
   },
-  "icon": "./public/img/bun.png"
+  "icon": "public/img/bun.png"
 }
