@@ -3,7 +3,7 @@
   "publisher": "Pandy",
   "displayName": "Bun",
   "description": "Execute JavaScript or TypeScript by Bun.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.69.0"
   },
