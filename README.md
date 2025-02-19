@@ -2,34 +2,28 @@
 
 <br />
 
-<h2 align="center">VS Code Extension: execute <code>.ts</code> or <code>.js</code> file by bun.</h2>
+<h2 align="center">VS Code Extension: Execute <code>.ts</code> or <code>.js</code> files with Bun.</h2>
 <br />
 
-Bun website: [https://bun.sh/](https://bun.sh/)
+Bun official website: [https://bun.sh/](https://bun.sh/)
 
-Please make sure had installed `bun`. Otherwise:
+Please make sure you have installed `bun`. Otherwise, run:
 
 ```shell
 curl https://bun.sh/install | bash
 ```
 
-Open **Command Palette** in VS Code View， and type `Bun Run`:
+Open the **Command Palette** in VS Code, and type `Bun Run`:
 
 ![](public/img/bun%20run.png)
 
-Then will execute current `.ts` or `.js` file.
+This will execute the current `.ts` or `.js` file.
 
-Same as :
+Equivalent to running:
 
 ```shell
 bun run xxx.ts
 ```
-
-## Author
-
-| [![Pandy](https://avatars.githubusercontent.com/u/68799055?v=4)](https://github.com/Penggeor) |
-| :-------------------------------------------------------------------------------------------: |
-|                             [Pandy](https://github.com/Penggeor)                              |
 
 ## License
 
